@@ -1,0 +1,1 @@
+import{g as n,c as r,p as t,E as c,B as p,o as l}from"./Cmxtu0Gv.js";const m=n({__name:"PriorityBadge",props:{kind:{}},setup(e){const s=e,a=p(()=>`pri-${s.kind}`);return(o,i)=>(l(),r("span",{class:t(["badge",a.value])},[c(o.$slots,"default")],2))}});export{m as _};
